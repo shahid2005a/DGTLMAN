@@ -1,17 +1,21 @@
+![logo](https://github.com/shahid2005a/DGTLMAN/blob/main/DGTLIP.png)
+
+
+
 # DGTLMAN
 DGTLMAN REPO
-## Installation :
+## TERMUX Installation  Commands:
 
-* `apt update`
-* `apt install git curl -y`
-* `git clone git://github.com/shahid2005a/DGTLMAN.git`
+* `pkg update && pkg upgrade -y`
+* `pkg install git curl -y`
+* `git clone https://github.com/shahid2005a/DGTLMAN.git`
 * `cd DGTLMAN`
 
 #### > Run : `bash DGTLIP`
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/shahid2005a/DGTLMAN.git ; cd DGTLMAN ; bash DGTLIP
+pkg update ; pkg install git curl -y ; git clone https://github.com/shahid2005a/DGTLMAN.git ; cd DGTLMAN ; bash DGTLIP
 ```
 
 
