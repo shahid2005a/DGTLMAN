@@ -4,7 +4,7 @@ DGTLMAN REPO
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
+* `git clone git://github.com/shahid2005a/DGTLMAN.git`
 * `cd DGTLMAN`
 
 #### > Run : `bash DGTLIP`
